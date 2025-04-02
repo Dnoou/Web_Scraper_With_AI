@@ -1,1 +1,7 @@
- pip install streamlit langchain langchain_ollama selenium beautifulsoup4 lxml html5lib python_dotenv
+ streamlit 
+langchain 
+langchain_ollama 
+selenium 
+beautifulsoup4 
+lxml html5lib 
+python_dotenv
