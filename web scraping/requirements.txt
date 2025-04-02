@@ -3,5 +3,6 @@ langchain
 langchain_ollama 
 selenium 
 beautifulsoup4 
-lxml html5lib 
+lxml 
+html5lib 
 python_dotenv
